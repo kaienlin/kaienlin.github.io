@@ -132,6 +132,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.25s;
   animation-delay: 0.25s;
+  height: 50%;
 
   &--overlay {
     position: relative;
@@ -165,6 +166,7 @@
     .btn {
       color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      text-align: center;
     }
 
     .page__lead {

@@ -12,20 +12,20 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "KaiEn's Blog"
+title                    : "Kaien's Blog"
 title_separator          : "|"
 name                     : "kaienlin"
-description              : "Personal Blog of a Computer Science Student"
+description              : "Computer Science, blog article, open-source"
 url                      : "https://kaienlin.github.io"
 baseurl                  : ""
 repository               : "kaienlin/kaienlin.github.io"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
-# masthead_title           : " "
+masthead_title           : "Kaien's Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Kai-En Lin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "a CSIE student"
+  avatar           : "/assets/images/kaienlin.jpg"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "NTU CSIE B07"
   location         : "Somewhere"
   email            : "kaienlin1999@gmail.com"
   links:
