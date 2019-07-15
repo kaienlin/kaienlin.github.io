@@ -23,8 +23,8 @@ description              : "Computer Science, blog article, open-source"
 url                      : "https://kaienlin.github.io"
 baseurl                  : ""
 repository               : "kaienlin/kaienlin.github.io"
-teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/88x88.png"
+teaser                   : ""
+logo                     : "/assets/images/icon-flower-4x.jpg"
 masthead_title           : "Kaien's Blog"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
