@@ -11,6 +11,7 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
+gem "faraday", "< 1.0"
 gem "github-pages", group: :jekyll_plugins
 gem "minimal-mistakes-jekyll"
 
