@@ -6,8 +6,19 @@ header:
   overlay_image: /assets/images/header-home-min.jpg
 intro: 
   - excerpt: "Welcome"
+feature_row:
+  - title: "CS Note"
+    excerpt: "Notes about Computer Science"
+    url: "/CS-note/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - title: "Blog"
+    excerpt: "Thoughts about my life or any subjective opinions"
+    url: "/blog/life/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-
+{% include feature_row id="feature_row" %}
